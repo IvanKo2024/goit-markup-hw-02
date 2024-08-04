@@ -1,0 +1,109 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Roboto';
+    color: #434455;
+    }
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    border: 0;
+    padding: 0;
+
+    white-space: nowrap;
+    clip-path: inset(100%);
+    clip: rect(0 0 0 0);
+    overflow: hidden;
+}
+
+/*=====HEADER=====*/
+
+.header {}
+
+.header-navigation {}
+
+.header-logo-link {}
+
+.header-menu-list {}
+
+.header-menu-item {}
+
+.header-menu-link {}
+
+.header-contact-list {}
+
+.header-contact-item {}
+
+.header-contact-link {}
+
+/*=====HERO=====*/
+
+.hero {}
+
+.hero-title {}
+
+.hero-btn {}
+
+/*=====FEATURES=====*/
+
+.features {}
+
+.visually-hidden {}
+
+.features-list {}
+
+.features-item {}
+
+.features-subtitle {}
+
+.features-item-text {}
+
+/*=====TEAM=====*/
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-list-item {}
+
+.team-item-image {}
+
+.team-subtitle {}
+
+.team-item-text {}
+
+/*=====PORTFOLIO=====*/
+
+.portfolio {}
+
+.portfolio-title {}
+
+.portfolio-list {}
+
+.portfolio-list-item {}
+
+.portfolio-subtitle {}
+
+.portfolio-item-text {}
+
+.portfolio-item-image {}
+
+/*=====FOOTER=====*/
+
+.footer {}
+
+.footer-logo {}
+
+.footer-text {}
