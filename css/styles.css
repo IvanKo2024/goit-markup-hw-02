@@ -12,6 +12,10 @@ a {
     text-decoration: none;
 }
 
+.header-logo-link span,.footer-logo span {
+    color: #2e2f42;
+}
+
 .visually-hidden {
     position: absolute;
     width: 1px;
