@@ -157,15 +157,12 @@ a {
 
 .team-item-image {}
 
-.team-subtitle {
-    text-align: center;
-}
+.team-subtitle {}
 
 .team-item-text {
         font-size: 16px;
         line-height: 1.5;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #434455;
 }
 
